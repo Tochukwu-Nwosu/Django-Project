@@ -2,4 +2,4 @@
 
 ---
 
-## The aim of this project is to rendering a website template using Django
+## The aim of this project is to render a website template using Django
